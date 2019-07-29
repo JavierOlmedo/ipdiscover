@@ -53,7 +53,7 @@ You can set the concurrency level with the `-t` flag and specifying a number (de
 You can get all ips of a domain that solves nslookup using the `-a` flag:
 
 ```
-▶ cat domains.txt | httprobe -a
+▶ cat domains.txt | ipdiscover -a
 ```
 
 ## Credit
